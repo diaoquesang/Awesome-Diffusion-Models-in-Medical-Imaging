@@ -1008,7 +1008,7 @@
 
 **BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models From Chest X-Ray Images** \
 *Zhanghao Chen, Yifei Sun, Ruiquan Ge, Wenjian Qin, Cheng Pan, Wenming Deng, Zhou Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang* \
-[24th May, 2024] [arXiv, 2024] \
+[24th May, 2024] [ISBI, 2024] \
 [[Paper](https://arxiv.org/abs/2311.15328)] [[GitHub](https://github.com/Benny0323/BS-Diff)]
 
 **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** \
